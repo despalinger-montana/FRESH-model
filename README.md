@@ -1,7 +1,7 @@
-# name of fresh model
+# Forage Resource Evaluation System for Habitat (FRESH-Cervid) Model
 (number of # for level of headings - 1 for the highest level)
-## description of software
-## List of contributors
-## package dependencies
+## Description of Software
+## List of Contributors
+## Package Dependencies
 openxlsx, lpSolve
-## citation
+## Citation
